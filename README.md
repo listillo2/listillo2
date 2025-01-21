@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm an Industrial Management Engineer interested in Data Analytics/Data Science. 🚀
+I've been working in the manufacturing business for almost 5 years and the search for answers in this environment lead me to this world. 🕵️
+You can reach me with my mail nicolasgp38@gmail.com
 
 <!--
 **listillo2/listillo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
